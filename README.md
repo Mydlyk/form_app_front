@@ -9,6 +9,7 @@ Axios- biblioteka służąca do wykonywania zapytań HTTP w aplikacjach JavaScri
 
 <h2>Implementcaja Vue:</h2>
 
+
 Pliki aplikacji vue znajdują w folderze "assets". W pliku app.js zostały dodane biblioteki bootstrap.
 
 ![image](https://github.com/Mydlyk/form_app/assets/65900710/7e29d559-e238-4a1a-a3f1-6a509fe424aa)
